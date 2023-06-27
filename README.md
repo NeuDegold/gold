@@ -1,1 +1,3 @@
 # gold
+#color 
+#backgound
